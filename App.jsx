@@ -42,7 +42,7 @@ function App() {
       <Header 
         toma1Valor={toma1Valor} />
         
-        <div className="flex content-center mt-12 bg-orange-600 md:flex">
+        <div className="flex content-center mt-12 bg-orange-600 md:flex flex-col-reverse">
 
           <Formulario 
           paciente={paciente}

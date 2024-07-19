@@ -13,7 +13,7 @@ const ListadoPacientes = ({pacientes, setPaciente, eliminarPaciente}) => {
     }, [pacientes]);
 
     return (
-        <div className="w-1/2 bg-blue-100 lg:w-3/5 md:h-screen overflow-y-scroll" >
+        <div className="p-[1rem] bg-blue-100 lg:w-3/5 md:h-screen overflow-y-scroll" >
             {pacientes && pacientes.length ? ( 
             <>
                 <h2 className="text-3xl font-black text-center ">Listado de pacientes y Cita</h2>
