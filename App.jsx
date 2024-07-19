@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React from "react"; // Enn juevas versiones de react con vite no hace falta importar react
 import { useState, useEffect } from "react";
 import Header from "./components/Header/Header";

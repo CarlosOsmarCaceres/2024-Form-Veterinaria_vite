@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 //Primer componente Formulario
 import {useState, useEffect} from "react";
 import Error from "../Error/Error";
