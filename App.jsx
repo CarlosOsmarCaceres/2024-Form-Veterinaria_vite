@@ -38,12 +38,12 @@ function App() {
 
   return (
     <  >
-    <div className="container mx-auto mt-20 bg-lime-400" >
+    <div className=" bg-lime-400" >
 
       <Header 
         toma1Valor={toma1Valor} />
         
-        <div className="flex content-center mt-12 bg-orange-600 md:flex flex-col-reverse">
+        <div className="flex content-center mt-12 bg-orange-600  flex-col-reverse">
 
           <Formulario 
           paciente={paciente}
