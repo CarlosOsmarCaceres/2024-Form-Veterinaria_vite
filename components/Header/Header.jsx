@@ -9,7 +9,7 @@ function Header ({params}) {
     <>
       <h1 className="mx-auto text-5xl font-black text-center md:w-1/2">
         Seguimiento Pacientes {""} 
-        <span className="text-indigo-600">Veterinaria Tony-Luna-Antunes</span>
+        <span className="text-indigo-600">Veterinaria Tony-Luna-Antunes </span>
       </h1>
     </>
   );
